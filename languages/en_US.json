@@ -1,0 +1,7 @@
+{
+	"plugin-data":
+	{
+		"name": "Hello",
+		"description": "Show a message on the sidebar, you can change the message from the configuration of the plugin."
+	}
+}
